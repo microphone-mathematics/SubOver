@@ -1,5 +1,10 @@
 [
 	{
+		"name":"anima",
+		"cname":[],
+		"response":["If this is your website and you've just created it, try refreshing in a minute"]
+	},
+	{
 		"name":"github", 
 		"cname":["github.io", "github.map.fastly.net"], 
 		"response":["There isn't a GitHub Pages site here.", "For root URLs (like http://example.com/) you must provide an index.html file"]
