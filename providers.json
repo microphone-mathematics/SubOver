@@ -2,42 +2,42 @@
 	{
 		"name":"readmeio",
 		"cname":["readme.io"],
-		"response":"Project doesnt exist... yet!"
+		"response":["Project doesnt exist... yet!"]
 	},
 	{
 		"name":"ngrok",
 		"cname":["ngrok.io"],
-		"response":"Tunnel"
+		"response":["Tunnel"]
 	},
 	{
 		"name":"launchrock",
 		"cname":["launchrock.com"],
-		"response":"It looks like you may have taken a wrong turn somewhere. Don't worry...it happens to all of us"
+		"response":["It looks like you may have taken a wrong turn somewhere. Don't worry...it happens to all of us"]
 	},
 	{
 		"name":"hatenablog",
 		"cname":["hatenablog.com"],
-		"response":"404 Blog is not found",
+		"response":["404 Blog is not found"]
 	},
 	{
 		"name":"gamfury",
 		"cname":["furydns.com"],
-		"response":"404: This page could not be found."
+		"response":["404: This page could not be found."]
 	},
 	{
 		"name":"discourse",
 		"cname":["trydiscourse.com"],
-		"response":"404"
+		"response":["404"]
 	},
 	{
 		"name":"awss3",
 		"cname":["amazon.com", "amazonaws.com"],
-		"response":"The specified bucket does not exist"
+		"response":["The specified bucket does not exist"]
 	},
 	{
 		"name":"agilecrm",
 		"cname":["agilecrm.com"],
-		"response":"Sorry, this page is no longer available"
+		"response":["Sorry, this page is no longer available"]
 	},
 	{
 		"name":"github", 
